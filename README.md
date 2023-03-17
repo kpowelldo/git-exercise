@@ -1,2 +1,2 @@
-# git-exerxcise
+# git-exercise
 hi Hello world!
